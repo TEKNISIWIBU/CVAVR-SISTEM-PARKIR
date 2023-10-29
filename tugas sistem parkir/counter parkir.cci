@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:575DA1EB
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\stdlib.h"
+NODE:M LEVEL:0 LINE:30 "tombol_IN"
+NODE:M LEVEL:0 LINE:31 "tombol_OUT"
+NODE:V LEVEL:0 LINE:33 "parkir -> R4,R5"
+NODE:V LEVEL:0 LINE:34 "buff -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "kapasitas -> R6,R7"
+NODE:F LEVEL:0 LINE:36 "main(void)"
